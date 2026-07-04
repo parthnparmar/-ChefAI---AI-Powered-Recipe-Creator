@@ -1,0 +1,8 @@
+# Animations Directory
+
+Place your Lottie animation files here:
+- Loading animations
+- Success/error animations
+- Onboarding animations
+
+Supported format: JSON (Lottie files)

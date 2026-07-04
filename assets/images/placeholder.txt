@@ -1,0 +1,8 @@
+# Images Directory
+
+Place your image assets here:
+- App icons
+- Recipe placeholder images
+- UI graphics
+
+Supported formats: PNG, JPG, SVG
